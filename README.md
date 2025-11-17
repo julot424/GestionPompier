@@ -9,8 +9,13 @@ Développement d'une application en Winform .NET, d'une application de gestion d
 
 **Fonctionnalités Implémentées :**
 * [UC Login] : Système d'authentification des utilisateurs.
+  <img width="371" height="238" alt="image" src="https://github.com/user-attachments/assets/c245997b-e263-42f9-b98b-7ea22f5fd0f0" />
 * [UC Nouvelle Mission] : Création et gestion des nouvelles interventions.
+  <img width="757" height="521" alt="image" src="https://github.com/user-attachments/assets/daa6337f-ee82-4126-865c-d2dcd443e1c2" />
 * [UC Mobilisation] : Affichage des engins et pompiers mobilisables.
+* <img width="693" height="522" alt="image" src="https://github.com/user-attachments/assets/f6f714b1-63cf-46c4-a92a-5bc1ce2cff8e" />
+* [UC Gestion Engin] : Consultation des engins avec images et affiche s'il est en mission ou non
+  <img width="999" height="648" alt="image" src="https://github.com/user-attachments/assets/21acbbea-9df1-4935-a429-ba46f4dc2ecf" />
 * [UC Tableau de Bord] : Consultation des statistiques et de l'état du parc d'engins. (Pas completement fonctionnel)
 
 **Technologies :**
@@ -31,7 +36,7 @@ Pour pouvoir exécuter et tester l'application sur votre machine :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/julot424/GestionPompier.git](https://github.com/julot424/GestionPompier.git)
+    git clone https://github.com/julot424/GestionPompier.git
     ```
 2.  **Ouvrir la solution :**
     * Naviguez vers le dossier cloné.
