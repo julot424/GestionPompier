@@ -50,6 +50,7 @@ Pour pouvoir exécuter et tester l'application sur votre machine :
 
 **Klausnitzer Jules**
 * **Contact :** julot424@gmail.com
+  
 **Caubert Martin**
 
 
